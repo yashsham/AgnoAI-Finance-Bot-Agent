@@ -1,0 +1,12 @@
+agno
+python-dotenv
+LangChain-core
+duckduckgo-search
+pypdf
+lancedb
+streamlit
+pandas
+tantivy
+yfinance
+ 
+ 
